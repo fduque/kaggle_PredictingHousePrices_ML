@@ -1,6 +1,10 @@
 # kaggle_PredictingHousePrices_ML
 
-Applying different machine learning approaches for House Prices prediction challenge on Kaggle. Follow the approaches from Kagglemaster, Mario Filho
+Project developed by applying different machine learning approaches for House Prices prediction challenge on Kaggle. Following approaches and tips from Kagglemaster, Mario Filho https://github.com/ledmaster.
+
+Develop using Colab notebook, check the code attached.
+
+Find below the summary.
 
 Summary:
 
